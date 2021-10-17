@@ -10,5 +10,5 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 lxml==4.6.3
-html5lib=1.1
-BeautifulSoup4=4.10.0
+html5lib==1.1
+BeautifulSoup4==4.10.0
